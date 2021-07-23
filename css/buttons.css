@@ -1,0 +1,32 @@
+.button {
+    inline-size: 32px;
+    block-size: 32px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.button:active {
+    transform: scale(.9);
+}
+
+#play {
+    background-image: url(../Assets/images/play.svg);
+    filter: drop-shadow( 5px 3px 5px #000 );
+}
+
+#pause {
+    background-image: url(../Assets/images/pause.svg);
+    filter: drop-shadow( 3px 3px 5px #000 );
+}
+
+#backward {
+    background-image: url(../Assets/images/-3.svg);
+    filter: drop-shadow( 3px 3px 5px #000 );
+}
+
+#forward {
+    background-image: url(../Assets/images/+3.svg);
+    filter: drop-shadow( 3px 3px 5px #000 );
+}
+
