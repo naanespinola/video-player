@@ -11,22 +11,22 @@
 }
 
 #play {
-    background-image: url(../Assets/images/play.svg);
+    background-image: url(../assets/images/play.svg);
     filter: drop-shadow( 5px 3px 5px #000 );
 }
 
 #pause {
-    background-image: url(../Assets/images/pause.svg);
+    background-image: url(../assets/images/pause.svg);
     filter: drop-shadow( 3px 3px 5px #000 );
 }
 
 #backward {
-    background-image: url(../Assets/images/-3.svg);
+    background-image: url(../assets/images/-3.svg);
     filter: drop-shadow( 3px 3px 5px #000 );
 }
 
 #forward {
-    background-image: url(../Assets/images/+3.svg);
+    background-image: url(../assets/images/+3.svg);
     filter: drop-shadow( 3px 3px 5px #000 );
 }
 
